@@ -1,1 +1,1 @@
-This is a django vote app
+This is a django app... more descriptions to come, still under dev.
